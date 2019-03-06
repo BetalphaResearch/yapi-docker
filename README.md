@@ -1,7 +1,10 @@
 # yapi-docker
+
 执行
 
+```shell
 ./build <Version>
+```
 
 构建对应版本的 yapi docker image
 
