@@ -1,6 +1,7 @@
 {
   "port": "3000",
   "adminAccount": "admin@admin.com",
+  "versionNotify": false,
   "db": {
     "servername": "mongo",
     "DATABASE": "yapi",
