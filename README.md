@@ -4,6 +4,8 @@
 
 ```shell
 ./build <Version>
+
+./build 1.5.10
 ```
 
 构建对应版本的 yapi docker image
